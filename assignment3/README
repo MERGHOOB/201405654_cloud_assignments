@@ -1,2 +1,4 @@
 COMMAND TO RUN: sudo mn --custom assign3.py --link=tc --controller remote
 
+for 2nd file: sudo python assign3_cmdlineArg.py $1 $2
+
