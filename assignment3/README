@@ -1,0 +1,2 @@
+COMMAND TO RUN: sudo mn --custom assign3.py --link=tc --controller remote
+
